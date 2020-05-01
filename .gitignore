@@ -6,3 +6,4 @@ env.py
 *.csv
 *.xlsx
 *.xlsm
+*pdf
